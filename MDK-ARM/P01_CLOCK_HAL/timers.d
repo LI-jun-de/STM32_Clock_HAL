@@ -1,0 +1,15 @@
+p01_clock_hal\timers.o: freeRTOS\source\timers.c
+p01_clock_hal\timers.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+p01_clock_hal\timers.o: ./freeRTOS/include/FreeRTOS.h
+p01_clock_hal\timers.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+p01_clock_hal\timers.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+p01_clock_hal\timers.o: ./freeRTOS/FreeRTOSConfig.h
+p01_clock_hal\timers.o: ./freeRTOS/include/projdefs.h
+p01_clock_hal\timers.o: ./freeRTOS/include/portable.h
+p01_clock_hal\timers.o: ./freeRTOS/include/deprecated_definitions.h
+p01_clock_hal\timers.o: ./freeRTOS/portable/portmacro.h
+p01_clock_hal\timers.o: ./freeRTOS/include/mpu_wrappers.h
+p01_clock_hal\timers.o: ./freeRTOS/include/task.h
+p01_clock_hal\timers.o: ./freeRTOS/include/list.h
+p01_clock_hal\timers.o: ./freeRTOS/include/queue.h
+p01_clock_hal\timers.o: ./freeRTOS/include/timers.h

@@ -1,0 +1,13 @@
+p01_clock_hal\croutine.o: freeRTOS\source\croutine.c
+p01_clock_hal\croutine.o: ./freeRTOS/include/FreeRTOS.h
+p01_clock_hal\croutine.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+p01_clock_hal\croutine.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+p01_clock_hal\croutine.o: ./freeRTOS/FreeRTOSConfig.h
+p01_clock_hal\croutine.o: ./freeRTOS/include/projdefs.h
+p01_clock_hal\croutine.o: ./freeRTOS/include/portable.h
+p01_clock_hal\croutine.o: ./freeRTOS/include/deprecated_definitions.h
+p01_clock_hal\croutine.o: ./freeRTOS/portable/portmacro.h
+p01_clock_hal\croutine.o: ./freeRTOS/include/mpu_wrappers.h
+p01_clock_hal\croutine.o: ./freeRTOS/include/task.h
+p01_clock_hal\croutine.o: ./freeRTOS/include/list.h
+p01_clock_hal\croutine.o: ./freeRTOS/include/croutine.h

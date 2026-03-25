@@ -1,0 +1,15 @@
+p01_clock_hal\queue.o: freeRTOS\source\queue.c
+p01_clock_hal\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+p01_clock_hal\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+p01_clock_hal\queue.o: ./freeRTOS/include/FreeRTOS.h
+p01_clock_hal\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+p01_clock_hal\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+p01_clock_hal\queue.o: ./freeRTOS/FreeRTOSConfig.h
+p01_clock_hal\queue.o: ./freeRTOS/include/projdefs.h
+p01_clock_hal\queue.o: ./freeRTOS/include/portable.h
+p01_clock_hal\queue.o: ./freeRTOS/include/deprecated_definitions.h
+p01_clock_hal\queue.o: ./freeRTOS/portable/portmacro.h
+p01_clock_hal\queue.o: ./freeRTOS/include/mpu_wrappers.h
+p01_clock_hal\queue.o: ./freeRTOS/include/task.h
+p01_clock_hal\queue.o: ./freeRTOS/include/list.h
+p01_clock_hal\queue.o: ./freeRTOS/include/queue.h
